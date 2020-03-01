@@ -1,4 +1,4 @@
-# Threads and Semaphores: Producer–consumer problem
+# Threads and Semaphores:vertical_traffic_light: : Producer–consumer problem
 Project made in Java using threads and semaphores for the subject of Operating Systems. <br><br>
 ![Screenshot of the game](/screenshot.png?raw=true "Screenshot") <br><br>
 UI implemented in JavaFx. <br><br>
